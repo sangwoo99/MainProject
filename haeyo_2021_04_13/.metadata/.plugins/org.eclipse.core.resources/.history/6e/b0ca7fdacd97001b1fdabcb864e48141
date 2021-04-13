@@ -1,0 +1,5 @@
+package com.haeyo.biz.board.impl;
+
+public class TogetherDestinationVO {
+
+}
