@@ -1,9 +1,0 @@
-package com.haeyo.biz.board.impl;
-
-public class TogetherDestinationVO {
-
-	int tNo; 
-	String dAddress;
-	float dLocX; 
-	float dLocY;
-}
